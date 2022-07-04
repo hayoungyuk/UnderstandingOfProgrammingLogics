@@ -1,6 +1,6 @@
 # Understanding Of Programming Logics
 
-#### * 'CHECK' O means just correct the answer. And X means 'need to review this flie again.'
+#### * 'CHECK' O means correct. And X means 'need to review this file again.'
 ### WEEK1
 |DATE|TITLE|CHECK|
 |---|---|---|
