@@ -1,2 +1,5 @@
-# UnderstandingOfProgrammingLogics
-UnderstandingOfProgrammingLogics :: review
+# Understanding Of Programming Logics
+
+## for review
+
+### WEEK1
