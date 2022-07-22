@@ -175,3 +175,18 @@
 |220719|Hw(메르센소수)|X|* 함수에 함수를 감싸서.. 메르센 소수가 소수임을 판단하자.. " '소수이냐('메르센 소수'가)'임을 판단하자. " 글로 먼저 생각.그리고 flag 혹은 return 하는 것 사용하는 것 생각하기.|
 |220719|Hw9_다(사이클revisited)|X|* 그냥 함수보단, get_cycle_number 함수 내 while문 범위. 조심할 것|
 |220719|mid6(숫자내숫자)revisited|O|
+
+### Week 12
+(0) lab12_3 -1로 잡지말고 incomes[0]으로 잡자.
+
+(X) Lab13_3 홀수출력,짝수출력할떄 쓰레기값도 같이 나옴 왜?
+printf("Print Odd Numbers : ");
+    for(i=0 ; i < sizeof(odd) ; i++){
+        printf("%d ", odd[i]);
+    }
+    printf("\n");
+
+sizeof 배열의 크기를 사용하는 게 아니라 개별 index의 갯수 count까지를 세는 것임..
+
+(X) Lab13_4F
+(X) Lab13_5
