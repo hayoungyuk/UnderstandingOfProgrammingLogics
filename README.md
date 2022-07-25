@@ -190,3 +190,7 @@ sizeof 배열의 크기를 사용하는 게 아니라 개별 index의 갯수 cou
 
 (X) Lab13_4F
 (X) Lab13_5
+
+### addition assignment
+
+(X) 문자 내 숫자 합 :  c - '0' 라는 것은 c 에 해당하는 문자를 숫자로 바꿔주는 역할을 합니다.  '0' 은 48번
